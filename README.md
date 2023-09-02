@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejal Wakchaure</h1>
-<h3 align="center">A Computer Science and Engineering Undergraduate at Cummins College of Engineering, Pune with Software Development Expertise, AI/ML Proficiency, and a Passion for Research</h3>
+<h3 align="center">Currently I am a Computer Science and Engineering Undergraduate at Cummins College of Engineering, Pune with Software Development Expertise, AI/ML Proficiency, and a Passion for Research</h3>
 
 - 👩‍💻 I've Completed Summer Internship'23 at Oracle India **Oracle MySQL Heatwave Services on OCI**
 
