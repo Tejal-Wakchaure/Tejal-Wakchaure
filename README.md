@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tejal-Wakchaure](https://github.com/Tejal-Wakchaure)
 
-- 💬 Ask me about **Backend Development, AI/ML, Web Development, Andriod Development**
+- 💬 Ask me about **Backend Development, AI/ML, Web Development, Android Development**
 
 - 📫 How to reach me **tejalwakchaure28@gmail.com**
 
