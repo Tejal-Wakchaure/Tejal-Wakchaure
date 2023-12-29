@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tejalwakchaure28@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mZygaD938XAC4PE_h92nXJ1Uy9anFRJh/view?usp=drive_link]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1CTSIsWZgyNXCD3vDZXa5kwXwh5qvApRB/view?usp=drive_link]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
