@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejal Wakchaure</h1>
-<h3 align="center">Currently I am a Computer Science and Engineering Undergraduate at Cummins College of Engineering, Pune with Software Development Expertise, AI/ML Proficiency, and a Passion for Research</h3>
+<h3 align="center">Currently I am a Computer Science and Engineering Undergraduate at Cummins College of Engineering, Pune with Software Development Expertise, Java Full Stack Development Proficiency, and a Passion for Research</h3>
 
-- 👩‍💻 I've Completed Summer Internship'23 at Oracle India and Worked With **Oracle MySQL Heatwave Services on OCI**
+- 👩‍💻 I've Completed Summer Internship'23 at Oracle India and Worked With **Oracle MySQL Heatwave Services**
 
 - 👩‍💻 Selected in CitiBridge Program'23 and Successfully Completed Apprenticeship at Citi India [Sanction Screening of Payment Transactions](https://github.com/Tejal-Wakchaure/Sanctions-Screening-of-Payments-Transactions)
 
