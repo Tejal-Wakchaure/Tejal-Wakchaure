@@ -3,15 +3,13 @@
 
 - 👩‍💻 I've Completed Summer Internship'23 at Oracle India and Worked With **Oracle MySQL Heatwave Services on OCI**
 
-- 🌱 I’m currently learning **ML, Python Libraries, Java Frameworks and Research Oriented Skills**
-
 - 👩‍💻 Selected in CitiBridge Program'23 and Successfully Completed Apprenticeship at Citi India [Sanction Screening of Payment Transactions](https://github.com/Tejal-Wakchaure/Sanctions-Screening-of-Payments-Transactions)
 
-- 👯 I’m looking to collaborate on **Machine Learning, AI, Software Development**
+- 🌱 I’m Looking to Collaborate on **Java Full Stack Development, Web Development,Machine Learning, Android Development and Research Oriented Skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tejal-Wakchaure](https://github.com/Tejal-Wakchaure)
 
-- 💬 Ask me about **Backend Development, AI/ML, Web Development, Android Development**
+- 💬 Ask me about **Backend Development, Web Development, AI/ML, Android Development**
 
 - 📫 How to reach me **tejalwakchaure28@gmail.com**
 
