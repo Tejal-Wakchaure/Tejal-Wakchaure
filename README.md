@@ -5,11 +5,9 @@
 
 - 👩‍💻 Selected in CitiBridge Program'23 and Successfully Completed Apprenticeship at Citi India [Sanction Screening of Payment Transactions](https://github.com/Tejal-Wakchaure/Sanctions-Screening-of-Payments-Transactions)
 
-- 🌱 I’m Looking to Collaborate on **Java Full Stack Development, Web Development,Machine Learning, Android Development and Research Oriented Skills**
+- 🌱 I’m Looking to Collaborate on **Java Full Stack Development, Web Development, Devops, Machine Learning, Android Development and Research Oriented Skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tejal-Wakchaure](https://github.com/Tejal-Wakchaure)
-
-- 💬 Ask me about **Backend Development, Web Development, AI/ML, Android Development**
 
 - 📫 How to reach me **tejalwakchaure28@gmail.com**
 
