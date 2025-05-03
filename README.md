@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tejal Wakchaure</h1>
 <h2 align="center">MTS-1 at Oracle</h2>
-<h3 align="center">I am a passionate Software Developer with a strong foundation in Java, Python, Devops, DBMS and Software Development.
-Having recently graduated with a BTech degree in Computer Engineering, I have hands-on experience with various projects that allowed me to hone my skills in software development. 
-I am eager to apply my knowledge and enthusiasm to real-world projects, collaborate with experienced professionals, and contribute to a team that values creativity and excellence. 
+<h3 align="center">I am a passionate Software Developer with a strong foundation in Java, Python, Devops, DBMS and Software Development.Having recently graduated with a BTech degree in Computer Engineering, I have hands-on experience with various projects that allowed me to hone my skills in software development. I am eager to apply my knowledge and enthusiasm to real-world projects, collaborate with experienced professionals, and contribute to a team that values creativity and excellence. 
  
 Feel free to connect with me to discuss potential opportunities or collaborations.</h3>
 
