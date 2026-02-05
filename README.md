@@ -137,7 +137,7 @@ Proven track record in full-stack development, DevOps automation, and delivering
 - **Email**: [tejalwakchaure28@gmail.com](mailto:tejalwakchaure28@gmail.com)
 - **Location**: Bengaluru, Karnataka, India
 - **Resume**: [Download Here](https://drive.google.com/file/d/1CTSIsWZgyNXCD3vDZXa5kwXwh5qvApRB/view?usp=drive_link)
-- **LinkedIn**: [linkedin.com/in/tejalwakchaure-b0a566242](https://linkedin.com/in/tejalwakchaure-b0a566242)
+- **LinkedIn**: [linkedin.com/in/tejalwakchaure-b0a566242](https://www.linkedin.com/in/tejal-wakchaure-b0a566242)
 
 ---
 
