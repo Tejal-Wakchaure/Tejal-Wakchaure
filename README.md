@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejal Wakchaure</h1>
 <h2 align="center">Member Technical Staff-1 at Oracle | Full-Stack Developer | Java & Cloud Specialist</h2>
 <h4 align="center">
-🚀 Passionate Software Engineer with expertise in Java/JVM development, scalable microservices, and cloud-native applications. 
+🚀 Passionate Software Developer with expertise in Java development, scalable microservices, and cloud-native applications. 
 Currently solving complex challenges at Oracle while building high-performance systems. 
 Proven track record in full-stack development, DevOps automation, and delivering enterprise-grade solutions.
 </h4>
@@ -54,7 +54,7 @@ Proven track record in full-stack development, DevOps automation, and delivering
 
 - **Diploma in Computer Technology**  
   *Amrutvahini Polytechnic, Sangamner* (2018 – 2021)  
-  Percentage: 92%
+  Percentage: 96.51%
 
 ## 💻 Technical Arsenal
 
@@ -74,7 +74,7 @@ Proven track record in full-stack development, DevOps automation, and delivering
 ### **Databases & Tools**
 - **Databases**: MySQL, PostgreSQL, Oracle DB, DBMS Design
 - **Development Tools**: Maven, Gradle, Git, JIRA, Swagger/OpenAPI, Postman
-- **IDEs**: IntelliJ IDEA, Android Studio, VS Code, Eclipse
+- **IDEs**: IntelliJ IDEA, Android Studio, VS Code, Eclipse, Netbeans
 - **Methodologies**: Agile/Scrum, Test-Driven Development, Code Reviews
 
 ## 🏆 Projects
@@ -97,9 +97,7 @@ Proven track record in full-stack development, DevOps automation, and delivering
 *OpenCV, Java, Android Studio, Gradle*
 - Delivered Android application leveraging OpenCV for real-time image processing
 - Implemented computer vision algorithms for seamless image stitching
-- Optimized application for various screen sizes and Android versions
-- Created intuitive UI for enhanced user experience
-
+  
 ## 📜 Certifications & Achievements
 - **Oracle Certified Java SE 21 Professional**
 - **Oracle Cloud Infrastructure Certified**
@@ -110,7 +108,6 @@ Proven track record in full-stack development, DevOps automation, and delivering
 
 ## 🌟 Leadership & Extracurricular
 - **Technical Mentor**: Guided junior developers and conducted workshops on Java and Spring Boot
-- **Coding Club Lead**: Organized hackathons and coding competitions at college level
 - **Open Source Contributor**: Actively contribute to Java and Spring Boot community discussions
 - **Tech Speaker**: Delivered sessions on modern Java development and cloud technologies
 
