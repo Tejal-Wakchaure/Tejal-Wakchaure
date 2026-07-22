@@ -1,20 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tejal Wakchaure</h1>
-<h2 align="center">Member Technical Staff-1 at Oracle | Full-Stack Developer | Java & Cloud Specialist</h2>
+<h2 align="center">Software Engineer II @Mastercard | Ex-MTS @Oracle | Full-Stack Developer | Java & Cloud Specialist</h2>
 <h4 align="center">
 🚀 Passionate Software Developer with expertise in Java development, scalable microservices, and cloud-native applications. 
 Currently solving complex challenges at Oracle while building high-performance systems. 
 Proven track record in full-stack development, DevOps automation, and delivering enterprise-grade solutions.
 </h4>
 
-## 🔥 Current Focus
-- 🔭 **Engineering JDK bug fixes** and backporting patches for Java VM updates at Oracle
-- 🛠️ **Architecting full-stack features** with React/Next.js frontend and Spring Boot microservices
-- 🔒 **Leading security remediation** initiatives across enterprise tools
-- ☁️ **Containerizing applications** with Docker and orchestrating on Oracle Cloud Infrastructure
-
 ## 📍 Experience Timeline
-
-### 🏢 **Oracle** - *Member Technical Staff-1* (June 2024 – Present)
+### 🏢 **Mastercard** - *Software Engineer II* (June 2026 – Present) 
+**Pune, Maharashtra**
+### 🏢 **Oracle** - *Member Technical Staff-1* (June 2024 – April 2026)
 **Bengaluru, Karnataka | JDK/JVM Development & Full-Stack Engineering**
 - Engineered critical JDK bug fixes and backported patches for Java VM updates, resolving production issues via JIRA ticketing system
 - Architected and developed full-stack features using React, Next.js, Node.js, and Spring Boot with Swagger-documented RESTful APIs
